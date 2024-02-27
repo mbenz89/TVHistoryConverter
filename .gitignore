@@ -240,4 +240,4 @@ cython_debug/
 #.idea/
 
 out/
-/.idea/
+.idea/
